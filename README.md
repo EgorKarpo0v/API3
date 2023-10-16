@@ -38,9 +38,9 @@ python main.py --url bit.ly/3uujask
 
 Пример содержания Файла env:
 ```python
-BITLY_TOKEN = 21ee231538fg3418gf29gfk23dgh4
+BITLY_TOKEN=21ee231538fg3418gf29gfk23dgh4
 ```
-Получить Token BITLINK можно на сайте [Bitlyl(https://app.bitly.com)
+Получить Token BITLINK можно на сайте [Bitly](https://app.bitly.com)
 
 # Цель проекта.
 
